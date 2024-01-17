@@ -7,8 +7,8 @@ Je moet de vlag beschermen van de enemies die je komen aanvallen
 
 <h1>Controls</h1>
 
-WASD : Movement
-Left mouse click : Shoot
+<p>WASD : Movement</p>
+<p>Left mouse click : Shoot</p>
 
 
 
